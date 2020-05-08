@@ -26,10 +26,10 @@ Specifically, I focus on high-level video understanding and reasoning by explori
   <sup>2010.03 - 2017.02</sup>
 </h4>
 
-- B.S. in [Computer Science and Engineering]
+- B.S. in [Computer Science and Engineering] (minor in [Statistics])
 
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
-
+[Statistics]: https://stat.snu.ac.kr/eng/
 
 ### Publications
 
