@@ -1,0 +1,6 @@
+@inproceedings{lee2018pfmn,
+    author    = {Sangho Lee and Jinyoung Sung and Youngjae Yu and Gunhee Kim},
+    title     = {{A Memory Network Approach for Story-based Temporal Summarization of 360\deg~Videos}},
+    booktitle = {CVPR},
+    year      = {2018}
+}

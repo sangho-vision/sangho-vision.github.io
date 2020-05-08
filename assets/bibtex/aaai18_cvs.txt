@@ -1,0 +1,7 @@
+@inproceedings{yu2018cvs,
+	title={{A Deep Ranking Model for Spatio-Temporal Highlight Detection from a 360\degree~Video}},
+	author={Youngjae Yu and Sangho Lee and Joonil Na and Jaeyun Kang and Gunhee Kim},
+	booktitle={AAAI},
+	year={2018}
+}
+
