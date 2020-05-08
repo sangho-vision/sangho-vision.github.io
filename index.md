@@ -13,7 +13,7 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
+  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, South Korea
   <sup>2017.03 - Current</sup>
 </h4>
 
@@ -22,7 +22,7 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
+  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, South Korea
   <sup>2010.03 - 2017.02</sup>
 </h4>
 
