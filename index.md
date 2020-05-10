@@ -37,12 +37,14 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 **Sangho Lee**, Jinyoung Sung, Youngjae Yu and Gunhee Kim <br/>
 CVPR 2018 <br/>
 <a class="code" href="https://arxiv.org/abs/1805.02838">[paper]</a>
-<a class="code" href="http://vision.snu.ac.kr/projects/pfmn/">[project page (poster/slide/bibtex)]</a>
+<a class="code" href="http://vision.snu.ac.kr/projects/pfmn/">[project page (poster/slides/bibtex)]</a>
 
 - A Deep Ranking Model for Spatio-temporal Highlight Detection from a 360&deg; Video <br/>
 Youngjae Yu, **Sangho Lee**, Joonil Na, Jaeyoun Kang and Gunhee Kim <br/>
 AAAI 2018 (spotlight) <br/>
 <a class="code" href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17213"> [paper]</a>
+<a class="code" href="assets/poster/aaai_vrsumm_poster.pdf"> [poster]</a>
+<a class="code" href="assets/slides/aaai_vrsumm_spotlight_2page.pdf"> [slides]</a>
 <a class="code" href="assets/bibtex/aaai18_cvs.txt">[bibtex]</a>
 
 - A Read-Write Memory Network for Movie Story Understanding <br/>
@@ -50,7 +52,7 @@ Seil Na, **Sangho Lee**, Jisung Kim and Gunhee Kim <br/>
 ICCV 2017 <br/>
 <a class="code" href="https://arxiv.org/abs/1709.09345">[paper]</a>
 <a class="code" href="https://github.com/seilna/RWMN">[code]</a>
-<a class="code" href="https://seilna.github.io/posters/iccv17_movieqa_poster.pdf">[poster]</a>
+<a class="code" href="assets/poster/iccv17_movieqa_poster.pdf">[poster]</a>
 <a class="code" href="assets/bibtex/iccv17_movieqa.txt">[bibtex]</a>
 
 - Encoding Video and Label Priors for Multi-label Video Classification on YouTube-8M dataset <br/>
