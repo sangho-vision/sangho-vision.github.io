@@ -33,6 +33,16 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 ### Publications
 
+- Parameter Efficient Multimodal Transformers for Video Representation Learning <br/>
+**Sangho Lee**, Youngjae Yu, Gunhee Kim, Thomas Breuel, Jan Kautz and Yale Song <br/>
+ICLR21 <br/>
+<a class="code" href="https://openreview.net/forum?id=6UdQLhqJyFD">[paper]</a>
+
+- Self-Supervised Learning of Compressed Video Representations <br/>
+Youngjae Yu\*, **Sangho Lee**\*, Gunhee Kim and Yale Song (\*: equal contribution) <br/>
+ICLR21 <br/>
+<a class="code" href="https://openreview.net/forum?id=jMPcEkJpdD">[paper]</a>
+
 - A Memory Network Approach for Story-based Temporal Summarization of 360&deg; Videos <br/>
 **Sangho Lee**, Jinyoung Sung, Youngjae Yu and Gunhee Kim <br/>
 CVPR 2018 <br/>
