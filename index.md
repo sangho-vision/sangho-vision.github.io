@@ -37,11 +37,16 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 **Sangho Lee**, Youngjae Yu, Gunhee Kim, Thomas Breuel, Jan Kautz and Yale Song <br/>
 ICLR 2021 <br/>
 <a class="code" href="https://openreview.net/forum?id=6UdQLhqJyFD">[paper]</a>
+<a class="code" href="assets/poster/iclr2021_lee_poster.png">[poster]</a>
+<a class="code" href="assets/slides/iclr2021_lee_slides.pdf">[slides]</a>
+
 
 - Self-Supervised Learning of Compressed Video Representations <br/>
 Youngjae Yu\*, **Sangho Lee**\*, Gunhee Kim and Yale Song (\*: equal contribution) <br/>
 ICLR 2021 <br/>
 <a class="code" href="https://openreview.net/forum?id=jMPcEkJpdD">[paper]</a>
+<a class="code" href="assets/poster/iclr2021_yu_poster.png">[poster]</a>
+<a class="code" href="assets/slides/iclr2021_yu_slides.pdf">[slides]</a>
 
 - A Memory Network Approach for Story-based Temporal Summarization of 360&deg; Videos <br/>
 **Sangho Lee**, Jinyoung Sung, Youngjae Yu and Gunhee Kim <br/>
