@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hello!
-I am a Ph.D student working with [Prof. Gunee Kim](http://vision.snu.ac.kr/~gunhee/), at Seoul National University.
+I am a Ph.D student working with [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/), at Seoul National University.
 
 My academic interests lie in computer vision, machine learning and their applications to real world problems.
 Specifically, I focus on high-level video understanding and reasoning by exploring the spatio-temporal representations and semantics of target videos.
@@ -33,9 +33,14 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 ### Publications
 
+- Unsupervised Representation Learning via Neural Activation Coding <br/>
+Yookoon Park, **Sangho Lee**, Gunhee Kim and David Blei <br/>
+ICML 2021 (long talk) <br/>
+
 - Parameter Efficient Multimodal Transformers for Video Representation Learning <br/>
 **Sangho Lee**, Youngjae Yu, Gunhee Kim, Thomas Breuel, Jan Kautz and Yale Song <br/>
 ICLR 2021 <br/>
+CVPR 2021: The Second Intertional Workshop on Large Scale Holistic Video Understanding <br/>
 <a class="code" href="https://openreview.net/forum?id=6UdQLhqJyFD">[paper]</a>
 <a class="code" href="assets/poster/iclr2021_lee_poster.png">[poster]</a>
 <a class="code" href="assets/slides/iclr2021_lee_slides.pdf">[slides]</a>
@@ -51,6 +56,7 @@ ICLR 2021 <br/>
 - A Memory Network Approach for Story-based Temporal Summarization of 360&deg; Videos <br/>
 **Sangho Lee**, Jinyoung Sung, Youngjae Yu and Gunhee Kim <br/>
 CVPR 2018 <br/>
+ECCV 2018 Workshop on 360&deg; Perception and Interaction <br/>
 <a class="code" href="https://arxiv.org/abs/1805.02838">[paper]</a>
 <a class="code" href="http://vision.snu.ac.kr/projects/pfmn/">[project page (poster/slides/bibtex)]</a>
 
@@ -65,6 +71,7 @@ AAAI 2018 (spotlight) <br/>
 - A Read-Write Memory Network for Movie Story Understanding <br/>
 Seil Na, **Sangho Lee**, Jisung Kim and Gunhee Kim <br/>
 ICCV 2017 <br/>
+ICCV 2017: The Joint Video and Language Understanding Workshop <br/>
 <a class="code" href="https://arxiv.org/abs/1709.09345">[paper]</a>
 <a class="code" href="https://github.com/seilna/RWMN">[code]</a>
 <a class="code" href="assets/poster/iccv17_movieqa_poster.pdf">[poster]</a>
