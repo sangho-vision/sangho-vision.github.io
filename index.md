@@ -36,6 +36,10 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 - Unsupervised Representation Learning via Neural Activation Coding <br/>
 Yookoon Park, **Sangho Lee**, Gunhee Kim and David Blei <br/>
 ICML 2021 (long talk) <br/>
+<a class="code" href="http://proceedings.mlr.press/v139/park21b.html">[paper]</a>
+<a class="code" href="assets/poster/icml21_park_poster.png">[poster]</a>
+<a class="code" href="assets/poster/icml21_park_slides.pdf">[slides]</a>
+<a class="code" href="https://github.com/yookoon/nac">[code]</a>
 
 - Parameter Efficient Multimodal Transformers for Video Representation Learning <br/>
 **Sangho Lee**, Youngjae Yu, Gunhee Kim, Thomas Breuel, Jan Kautz and Yale Song <br/>
