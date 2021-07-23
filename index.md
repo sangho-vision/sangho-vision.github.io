@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hello!
-I am a Ph.D student working with [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/), at Seoul National University.
+I am a Ph.D student working with [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/), at Seoul National University.
 
 My academic interests lie in computer vision, machine learning and their applications to real world problems.
 Specifically, I focus on high-level video understanding and reasoning by exploring the spatio-temporal representations and semantics of target videos.
