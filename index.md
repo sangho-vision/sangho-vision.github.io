@@ -33,6 +33,10 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 ### Publications
 
+- Automatic Curation of Large-Scale Datasets for Audio-Visual Representation Learning <br/>
+**Sangho Lee**\*, Jiwan Chung\*, Youngjae Yu, Gunhee Kim, Thomas Breuel, Gal Chechik and Yale Song (\*: equal contribution) <br/>
+ICCV 2021 (To appear)
+
 - Unsupervised Representation Learning via Neural Activation Coding <br/>
 Yookoon Park, **Sangho Lee**, Gunhee Kim and David Blei <br/>
 ICML 2021 (long talk) <br/>
