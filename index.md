@@ -33,9 +33,12 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 ### Publications
 
-- Automatic Curation of Large-Scale Datasets for Audio-Visual Representation Learning <br/>
+- ACAV100M: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning <br/>
 **Sangho Lee**\*, Jiwan Chung\*, Youngjae Yu, Gunhee Kim, Thomas Breuel, Gal Chechik and Yale Song (\*: equal contribution) <br/>
-ICCV 2021 (To appear)
+ICCV 2021 (To appear) <br/>
+CVPR 2021: The Third Workshop on Learning from Unlabeled Videos <br/>
+<a class="code" href="https://arxiv.org/abs/2101.10803">[paper]</a>
+<a class="code" href="https://acav100m.github.io">[code&dataset]</a>
 
 - Unsupervised Representation Learning via Neural Activation Coding <br/>
 Yookoon Park, **Sangho Lee**, Gunhee Kim and David Blei <br/>
@@ -52,7 +55,6 @@ CVPR 2021: The Second Intertional Workshop on Large Scale Holistic Video Underst
 <a class="code" href="https://openreview.net/forum?id=6UdQLhqJyFD">[paper]</a>
 <a class="code" href="assets/poster/iclr2021_lee_poster.png">[poster]</a>
 <a class="code" href="assets/slides/iclr2021_lee_slides.pdf">[slides]</a>
-
 
 - Self-Supervised Learning of Compressed Video Representations <br/>
 Youngjae Yu\*, **Sangho Lee**\*, Gunhee Kim and Yale Song (\*: equal contribution) <br/>
