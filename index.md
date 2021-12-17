@@ -35,7 +35,7 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 - ACAV100M: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning <br/>
 **Sangho Lee**\*, Jiwan Chung\*, Youngjae Yu, Gunhee Kim, Thomas Breuel, Gal Chechik and Yale Song (\*: equal contribution) <br/>
-ICCV 2021 (To appear) <br/>
+ICCV 2021 <br/>
 CVPR 2021: The Third Workshop on Learning from Unlabeled Videos <br/>
 <a class="code" href="https://arxiv.org/abs/2101.10803">[paper]</a>
 <a class="code" href="https://acav100m.github.io">[code&dataset]</a>
@@ -97,5 +97,7 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 
 ### Awards
 
+- [Naver Ph.D. Fellowship](https://sangho-vision.github.io/) (Naver, 2021)
+- [Yulchon AI Star Fellowship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) (Yulchon Foundation, Nongshim Group, 2021)
 - [MovieQA Challenge at ICCV 2017: The Joing Video and Language Understanding Workshop](http://movieqa.cs.toronto.edu/workshops/iccv2017/) (2nd place, 2017)
 - [Kaggle - Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m/leaderboard) (8th place out of 655 teams, 2017)
