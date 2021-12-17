@@ -98,6 +98,6 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 ### Awards
 
 - [Naver Ph.D. Fellowship](https://sangho-vision.github.io/) (Naver, 2021)
-- [Yulchon AI Star Fellowship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) (Yulchon Foundation, Nongshim Group, 2021)
+- [Youlchon AI Star Fellowship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) (Youlchon Foundation, Nongshim Group, 2021)
 - [MovieQA Challenge at ICCV 2017: The Joing Video and Language Understanding Workshop](http://movieqa.cs.toronto.edu/workshops/iccv2017/) (2nd place, 2017)
 - [Kaggle - Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m/leaderboard) (8th place out of 655 teams, 2017)
