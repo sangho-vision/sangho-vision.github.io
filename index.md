@@ -95,6 +95,11 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 <a class="code" href="assets/bibtex/cvpr_workshop_2017_video.txt">[bibtex]</a>
 
 
+### Work Experience
+
+- [Allen Institute for AI, PRIOR Team](https://prior.allenai.org/) Research Intern (Spring, 2022)
+
+
 ### Awards
 
 - [Naver Ph.D. Fellowship](https://sangho-vision.github.io/) (Naver, 2021)
