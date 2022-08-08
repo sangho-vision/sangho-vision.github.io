@@ -97,7 +97,7 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 
 ### Work Experience
 
-- [PRIOR @ Allen Institute for AI](https://prior.allenai.org/) Research Intern (Spring, 2022)
+- [PRIOR @ Allen Institute for AI](https://prior.allenai.org/) Research Intern (March-June, August-December 2022)
 
 
 ### Awards
