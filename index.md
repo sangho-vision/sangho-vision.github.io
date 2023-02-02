@@ -2,22 +2,30 @@
 layout: default
 ---
 
-Hello!
-I am a Ph.D student working with [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/), at Seoul National University.
+Hello! I am a Postdoctoral Young Investigator at AI2 on the PRIOR team, based in Seattle, WA.
+
 
 My academic interests lie in computer vision, machine learning and their applications to real world problems.
-Specifically, I focus on high-level video understanding and reasoning by exploring the spatio-temporal representations and semantics of target videos.
+Specifically, I focus on multimodal representation learning, especially for high-level video understanding and reasoning.
+Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering from Seoul National University where I was advised by [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/).
 
 ### Education
 
-
 <h4 class="education">
-  <i class="material-icons md-18">account_balance</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, South Korea
-  <sup>2017.03 - Current</sup>
+  <i class="material-icons md-18">work</i>
+  <a href="http://en.snu.ac.kr/">Allen Institute for AI</a>, Seattle, WA, USA
+  <sup>2023.01 - Current</sup>
 </h4>
 
-- Integrated M.S./Ph.D. student in [Computer Science and Engineering]
+- Postdoctoral Young Investigator on the [PRIOR] team
+
+<h4 class="education">
+  <i class="material-icons md-18">school</i>
+  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, South Korea
+  <sup>2017.03 - 2023.02</sup>
+</h4>
+
+- Ph.D. in [Computer Science and Engineering]
 - Advisor: [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
 
 <h4 class="education">
@@ -28,6 +36,7 @@ Specifically, I focus on high-level video understanding and reasoning by explori
 
 - B.S. in [Computer Science and Engineering] (minor in [Statistics])
 
+[PRIOR]: https://prior.allenai.org/
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 [Statistics]: https://stat.snu.ac.kr/eng/
 
