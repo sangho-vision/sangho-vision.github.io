@@ -13,7 +13,7 @@ Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering fr
 
 <h4 class="education">
   <i class="material-icons md-18">work</i>
-  <a href="http://en.snu.ac.kr/">Allen Institute for AI</a>, Seattle, WA, USA
+  <a href="https://allenai.org/">Allen Institute for AI</a>, Seattle, WA, USA
   <sup>2023.01 - Current</sup>
 </h4>
 
