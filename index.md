@@ -27,6 +27,7 @@ Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering fr
 
 - Ph.D. in [Computer Science and Engineering]
 - Advisor: [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
+- Thesis: Improving Efficiency in Large-Scale Self-Supervised Video Representation Learning
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
@@ -110,8 +111,15 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 
 
 ### Awards
-
+- [Excellent Ph.D. Thesis Award](https://sangho-vision.github.io/) (SNU CSE, 2023)
+  - Selected as the best doctoral thesis by Department of Computer Science and Engineering, Seoul National University
 - [Naver Ph.D. Fellowship](https://sangho-vision.github.io/) (Naver, 2021)
+  - Awarded to outstanding graduate students in the field of Computer Science for their exceptional academic research
 - [Youlchon AI Star Fellowship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) (Youlchon Foundation, Nongshim Group, 2021)
-- [MovieQA Challenge at ICCV 2017: The Joing Video and Language Understanding Workshop](http://movieqa.cs.toronto.edu/workshops/iccv2017/) (2nd place, 2017)
-- [Kaggle - Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m/leaderboard) (8th place out of 655 teams, 2017)
+  - An award for those who made distinguished research achievements in core AI fields
+- [MovieQA Challenge @ ICCV 2017 Workshop](https://www.rsipvision.com/ICCV2017-Wednesday/) (ICCV Workshop, 2017)
+  - ICCV 2017 Workshop on the Joining Video and Language Understanding
+  - Ranked 2nd place
+- [Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m/leaderboard) (CVPR Workshop, 2017)
+  - CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding
+  - Ranked 8th place out of 655 teams (Top 2%)
