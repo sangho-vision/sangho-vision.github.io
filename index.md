@@ -43,6 +43,12 @@ Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering fr
 
 ### Publications
 
+- Can Language Models Laugh at YouTube Short-form Videos? <br/>
+Dayoon Ko, **Sangho Lee** and Gunhee Kim <br/>
+EMNLP 2023 <br/>
+<a class="code" href="https://sangho-vision.github.io">[paper]</a>
+<a class="code" href="https://sangho-vision.github.io">[code&dataset]</a>
+
 - ACAV100M: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning <br/>
 **Sangho Lee**\*, Jiwan Chung\*, Youngjae Yu, Gunhee Kim, Thomas Breuel, Gal Chechik and Yale Song (\*: equal contribution) <br/>
 ICCV 2021 <br/>
