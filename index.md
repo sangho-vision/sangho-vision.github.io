@@ -45,7 +45,7 @@ Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering fr
 
 - Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action <br/>
 Jiasen Lu\*, Christopher Clark\*, **Sangho Lee**\*, Zichen Zhang\*, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi (\*: equal contribution) <br/>
-preprint <br/>
+CVPR 2024 <br/>
 <a class="code" href="https://arxiv.org/abs/2312.17172">[paper]</a>
 <a class="code" href="https://unified-io-2.allenai.org">[webpage]</a>
 
