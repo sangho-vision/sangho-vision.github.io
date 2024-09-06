@@ -2,19 +2,45 @@
 layout: default
 ---
 
-Hello! I am a Postdoctoral Young Investigator at AI2 on the PRIOR team, based in Seattle, WA.
+Hello! I am a Research Scientist at Ai2 on the PRIOR team, based in Seattle, WA.
 
 
 My academic interests lie in computer vision, machine learning and their applications to real world problems.
 Specifically, I focus on multimodal representation learning, especially for high-level video understanding and reasoning.
-Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering from Seoul National University where I was advised by [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/).
+Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering from Seoul National University where I was advised by [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/).
+
+### Employment
+
+<h4 class="education">
+  <i class="material-icons md-18">work</i>
+  <a href="https://allenai.org/">Allen Institute for AI</a>, Seattle, WA, USA
+  <sup>2024.08 - Current</sup>
+</h4>
+
+- Research Scientist on the [PRIOR] team
+
+<h4 class="education">
+  <i class="material-icons md-18">work</i>
+  <a href="https://allenai.org/">Allen Institute for AI</a>, Seattle, WA, USA
+  <sup>2023.01 - 2024.07</sup>
+</h4>
+
+- Postdoctoral Young Investigator on the [PRIOR] team
+
+<h4 class="education">
+  <i class="material-icons md-18">work</i>
+  <a href="https://allenai.org/">Allen Institute for AI</a>, Seattle, WA, USA
+  <sup>2023.01 - Current</sup>
+</h4>
+
+- Research Intern on the [PRIOR] team
 
 ### Education
 
 <h4 class="education">
   <i class="material-icons md-18">work</i>
   <a href="https://allenai.org/">Allen Institute for AI</a>, Seattle, WA, USA
-  <sup>2023.01 - Current</sup>
+  <sup>2022.03 - 2022.06, 2022.08 - 2022.12</sup>
 </h4>
 
 - Postdoctoral Young Investigator on the [PRIOR] team
@@ -42,6 +68,10 @@ Prior to joining AI2, I received my Ph.D. in Computer Science and Engineering fr
 [Statistics]: https://stat.snu.ac.kr/eng/
 
 ### Publications
+
+- Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation <br/>
+Seongsu Ha\*, Chaeyun Kim\*, Donghwa Kim\*, Junho Lee, **Sangho Lee**, and Joonseok Lee (\*: equal contribution) <br/>
+To appear at ECCV 2024 <br/>
 
 - Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action <br/>
 Jiasen Lu\*, Christopher Clark\*, **Sangho Lee**\*, Zichen Zhang\*, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi (\*: equal contribution) <br/>
@@ -115,11 +145,6 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 <a class="code" href="https://arxiv.org/abs/1706.07960">[paper]</a>
 <a class="code" href="https://github.com/seilna/youtube8m">[code]</a>
 <a class="code" href="assets/bibtex/cvpr_workshop_2017_video.txt">[bibtex]</a>
-
-
-### Work Experience
-
-- [PRIOR @ Allen Institute for AI](https://prior.allenai.org/) Research Intern (March-June, August-December 2022)
 
 
 ### Awards
