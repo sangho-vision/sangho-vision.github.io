@@ -38,14 +38,6 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 ### Education
 
 <h4 class="education">
-  <i class="material-icons md-18">work</i>
-  <a href="https://allenai.org/">Allen Institute for AI</a>, Seattle, WA, USA
-  <sup>2022.03 - 2022.06, 2022.08 - 2022.12</sup>
-</h4>
-
-- Postdoctoral Young Investigator on the [PRIOR] team
-
-<h4 class="education">
   <i class="material-icons md-18">school</i>
   <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, South Korea
   <sup>2017.03 - 2023.02</sup>
