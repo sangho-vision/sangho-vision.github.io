@@ -71,7 +71,13 @@ preprint <br/>
 
 - Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation <br/>
 Seongsu Ha\*, Chaeyun Kim\*, Donghwa Kim\*, Junho Lee, **Sangho Lee**, and Joonseok Lee (\*: equal contribution) <br/>
-To appear at ECCV 2024 <br/>
+ECCV 2024 <br/>
+<a class="code" href="http://www.joonseok.net/papers/eccv24_nemo.pdf">[paper]</a>
+<a class="code" href="https://dddonghwa.github.io/NeMo">[project page]</a>
+<a class="code" href="https://github.com/snuviplab/NeMo">[code]</a>
+<a class="code" href="assets/poster/eccv2024_ha_poster.png">[poster]</a>
+<a class="code" href="assets/slides/eccv2024_ha_slides.pdf">[slides]</a>
+
 
 - Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action <br/>
 Jiasen Lu\*, Christopher Clark\*, **Sangho Lee**\*, Zichen Zhang\*, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi (\*: equal contribution) <br/>
