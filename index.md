@@ -61,6 +61,14 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 
 ### Publications
 
+- Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models <br/>
+Matt Deitke\*, Christopher Clark\*, **Sangho Lee**, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Jen Dumas, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi, Aniruddha Kembhavi (\*: equal contribution) <br/>
+preprint <br/>
+<a class="code" href="https://arxiv.org/abs/2409.17146">[paper]</a>
+<a class="code" href="https://molmo.allenai.org">[demo]</a>
+<a class="code" href="https://molmo.allenai.org/blog">[blog post]</a>
+
+
 - Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation <br/>
 Seongsu Ha\*, Chaeyun Kim\*, Donghwa Kim\*, Junho Lee, **Sangho Lee**, and Joonseok Lee (\*: equal contribution) <br/>
 To appear at ECCV 2024 <br/>
