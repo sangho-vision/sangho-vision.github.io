@@ -61,12 +61,22 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 
 ### Publications
 
+- One Diffusion to Generate Them All <br/>
+Duong H. Le\*, Tuan Pham\*, **Sangho Lee**, Christopher Clark, Aniruddha Kembhavi, Stephan Mandt, Ranjay Krishna, and Jiasen Lu (\*: equal contribution) <br/>
+preprint <br/>
+<a class="code" href="https://arxiv.org/abs/2411.16318">[paper]</a>
+<a class="code" href="https://lehduong.github.io/OneDiffusion-homepage">[project page]</a>
+<a class="code" href="https://github.com/lehduong/OneDiffusion">[code]</a>
+
 - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models <br/>
 Matt Deitke\*, Christopher Clark\*, **Sangho Lee**, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Jen Dumas, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi, Aniruddha Kembhavi (\*: equal contribution) <br/>
 preprint <br/>
 <a class="code" href="https://arxiv.org/abs/2409.17146">[paper]</a>
 <a class="code" href="https://molmo.allenai.org">[demo]</a>
 <a class="code" href="https://molmo.allenai.org/blog">[blog post]</a>
+<a class="code" href="https://github.com/allenai/molmo">[code]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19">[models]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b">[data]</a>
 
 
 - Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation <br/>
