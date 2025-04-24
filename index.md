@@ -63,7 +63,7 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 
 - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models <br/>
 Matt Deitke\*, Christopher Clark\*, **Sangho Lee**, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Jen Dumas, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi and Aniruddha Kembhavi (\*: equal contribution) <br/>
-CVPR 2025 (Oral, 3.3\%) <br/>
+CVPR 2025 (Oral, 3.3%) <br/>
 <a class="code" href="https://arxiv.org/abs/2409.17146">[paper]</a>
 <a class="code" href="https://molmo.allenai.org">[demo]</a>
 <a class="code" href="https://molmo.allenai.org/blog">[blog post]</a>
@@ -79,7 +79,7 @@ CVPR 2025 <br/>
 <a class="code" href="https://github.com/lehduong/OneDiffusion">[code]</a>
 
 - ReSpec: Relevance and Specificity Grounded Online Filtering for Learning on Video-Text Data Streams <br/>
-Chris Dongjoo Kim\*, Jihwan Moon\*, Sangwoo Moon, Heeseung Yun, Sihaeng Lee, Aniruddha Kembhavi, Soonyoung Lee, Gunhee Kim, **Sangho Lee**\^ and Christopher Clark\^ (\*: equal contribution, \^: equal advising) <br/>
+Chris Dongjoo Kim\*, Jihwan Moon\*, Sangwoo Moon, Heeseung Yun, Sihaeng Lee, Aniruddha Kembhavi, Soonyoung Lee, Gunhee Kim, **Sangho Lee**^ and Christopher Clark^ (\*: equal contribution, ^: equal advising) <br/>
 CVPR 2025 <br/>
 <a class="code" href="https://arxiv.org/abs/2504.14875">[paper]</a>
 <a class="code" href="https://github.com/cdjkim/ReSpec">[code]</a>
