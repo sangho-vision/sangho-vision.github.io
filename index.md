@@ -64,6 +64,7 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models <br/>
 Matt Deitke\*, Christopher Clark\*, **Sangho Lee**, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Jen Dumas, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi and Aniruddha Kembhavi (\*: equal contribution) <br/>
 CVPR 2025 (Oral, 3.3%) <br/>
+**Best Paper, Honorable Mention** (top 7 out of 2,872 accepted papers) <br/>
 <a class="code" href="https://arxiv.org/abs/2409.17146">[paper]</a>
 <a class="code" href="https://molmo.allenai.org">[demo]</a>
 <a class="code" href="https://molmo.allenai.org/blog">[blog post]</a>
@@ -84,7 +85,6 @@ CVPR 2025 <br/>
 <a class="code" href="https://arxiv.org/abs/2504.14875">[paper]</a>
 <a class="code" href="https://github.com/cdjkim/ReSpec">[code]</a>
 
-
 - Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation <br/>
 Seongsu Ha\*, Chaeyun Kim\*, Donghwa Kim\*, Junho Lee, **Sangho Lee** and Joonseok Lee (\*: equal contribution) <br/>
 ECCV 2024 <br/>
@@ -94,10 +94,9 @@ ECCV 2024 <br/>
 <a class="code" href="assets/poster/eccv2024_ha_poster.png">[poster]</a>
 <a class="code" href="assets/slides/eccv2024_ha_slides.pdf">[slides]</a>
 
-
 - Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action <br/>
 Jiasen Lu\*, Christopher Clark\*, **Sangho Lee**\*, Zichen Zhang\*, Savya Khosla, Ryan Marten, Derek Hoiem and Aniruddha Kembhavi (\*: equal contribution) <br/>
-CVPR 2024 <br/>
+CVPR 2024 (highlight) <br/>
 <a class="code" href="https://arxiv.org/abs/2312.17172">[paper]</a>
 <a class="code" href="https://unified-io-2.allenai.org">[webpage]</a>
 
@@ -170,6 +169,9 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 
 
 ### Awards
+- [Best Paper Awards](https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press) (CVPR, 2025)
+  - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models
+  - Best Paper, Honorable Mention
 - [Excellent Ph.D. Thesis Award](https://sangho-vision.github.io/) (SNU CSE, 2023)
   - Selected as the best doctoral thesis by Department of Computer Science and Engineering, Seoul National University
 - [Naver Ph.D. Fellowship](https://sangho-vision.github.io/) (Naver, 2021)
