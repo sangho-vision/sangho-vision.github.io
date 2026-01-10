@@ -2,3 +2,20 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* =========================
+   Custom colors (LaTeX sync)
+   ========================= */
+:root {
+  --ai2pink: #f0529c;
+}
+
+/* =========================
+   Author marks
+   ========================= */
+.core {
+  color: var(--ai2pink);
+  font-size: 0.8em;
+  vertical-align: super;
+  margin-left: 2px;
+}

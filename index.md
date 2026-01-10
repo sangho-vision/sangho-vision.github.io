@@ -5,8 +5,8 @@ layout: default
 Hello! I am a Research Scientist at Ai2 on the PRIOR team, based in Seattle, WA.
 
 
-My academic interests lie in computer vision, machine learning and their applications to real world problems.
-Specifically, I focus on multimodal representation learning, especially for high-level video understanding and reasoning.
+My research interests lie in computer vision and machine learning, with a focus on their applications to real-world problems.
+In particular, I study multimodal foundation models grounded in vision and language.
 Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering from Seoul National University where I was advised by [Prof. Gunhee Kim](http://vision.snu.ac.kr/~gunhee/).
 
 ### Employment
@@ -60,6 +60,35 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 [Statistics]: https://stat.snu.ac.kr/eng/
 
 ### Publications
+
+- Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding <br/>
+Christopher Clark<sup class="core">♥</sup>\*, Jieyu Zhang<sup class="core">♥</sup>\*, Zixian Ma<sup class="core">♥</sup>\*, Jae Sung Park<sup class="core">♥</sup>, Mohammadreza Salehi<sup class="core">♥</sup>, Rohun Tripathi<sup class="core">♥</sup>, **Sangho Lee**<sup class="core">♥</sup>, Zhongzheng Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winson Han, Ali Farhadi and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor, \*: equal contribution) <br/>
+Technical Report 2025 <br/>
+<a class="code" href="https://www.datocms-assets.com/64837/1766008501-molmo2-tech-report.pdf">[paper]</a>
+<a class="code" href="https://playground.allenai.org/?model=molmo2-8b">[demo]</a>
+<a class="code" href="https://allenai.org/blog/molmo2">[blog post]</a>
+<a class="code" href="https://github.com/allenai/molmo2">[code]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmo2">[models]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmo2-data">[data]</a>
+
+- SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning <br/>
+Jitesh Jain, Jialuo Li, Zixian Ma, Jieyu Zhang, Chris Dongjoo Kim, **Sangho Lee**, Rohun Tripathi, Tanmay Gupta, Christopher Clark^ and Humphrey Shi^ (^: equal advising) <br/>
+Preprint 2025 <br/>
+<a class="code" href="https://arxiv.org/abs/2512.13874">[paper]</a>
+<a class="code" href="https://praeclarumjj3.github.io/sage">[project page]</a>
+<a class="code" href="https://github.com/allenai/SAGE">[code]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/sage">[models&data]</a>
+
+- MolmoAct: Action Reasoning Models that can Reason in Space <br/>
+Jason Lee<sup class="core">♥</sup>\*, Jiafei Duan<sup class="core">♥</sup>\*, Haoquan Fang<sup class="core">♥</sup>\*, Yuquan Deng<sup class="core">♥</sup>, Shuo Liu<sup class="core">♥</sup>, Boyang Li<sup class="core">♥</sup>, Bohan Fang<sup class="core">♥</sup>, Jieyu Zhang<sup class="core">♥</sup>, Yi Ru Wang<sup class="core">♥</sup>, **Sangho Lee**, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix<sup class="core">♥</sup>, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox<sup class="core">♥</sup> and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor, \*: equal contribution) <br/>
+Technical Report 2025 <br/>
+CoRL 2025 Workshop on Making Sense of Data in Robotics (**Best Paper Nominee**) <br/>
+CoRL 2025 Workshop on Resource-Rational Robot Learning (**Best Paper Runner-up**) <br/>
+<a class="code" href="https://arxiv.org/abs/2508.07917">[paper]</a>
+<a class="code" href="https://allenai.org/blog/molmoact">[blog post]</a>
+<a class="code" href="https://github.com/allenai/MolmoAct">[code]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmoact">[models]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmoact-data-mixture">[data]</a>
 
 - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models <br/>
 Matt Deitke\*, Christopher Clark\*, **Sangho Lee**, Rohun Tripathi, Yue Yang, Jae Sung Park, Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson, Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch, Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou, Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff, Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk Groeneveld, Jen Dumas, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel, Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi and Aniruddha Kembhavi (\*: equal contribution) <br/>
