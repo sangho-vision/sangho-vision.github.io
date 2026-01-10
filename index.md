@@ -198,6 +198,14 @@ CVPR 2017 Workshop on YouTube-8M Large-Scale Video Understanding <br/>
 
 
 ### Awards
+- [Best Paper Awards](https://openreview.net/group?id=robot-learning.org/CoRL/2025/Workshop/Robot_Data) (CoRL Workshop, 2025)
+  - CoRL 2025 Workshop on Making Sense of Data in Robotics: Composition, Curation, and Interpretability at Scale
+  - MolmoAct: Action Reasoning Models that can Reason in Space
+  - Best Paper Nominee
+- [Best Paper Awards](https://rational-robots.github.io) (CoRL Workshop, 2025)
+  - CoRL 2025 Workshop on Resource-Rational Robot Learning
+  - MolmoAct: Action Reasoning Models that can Reason in Space
+  - Best Paper Runner-up
 - [Best Paper Awards](https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press) (CVPR, 2025)
   - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models
   - Best Paper, Honorable Mention
