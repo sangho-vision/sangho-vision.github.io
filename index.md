@@ -63,7 +63,7 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 
 - Unified Spatio-Temporal Token Scoring for Efficient Video VLMs <br/>
 Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark^, Yong Jae Lee^ and **Sangho Lee**^ (^: equal advising) <br/>
-Preprint 2025 <br/>
+Preprint 2026 <br/>
 <a class="code" href="https://arxiv.org/abs/2603.18004">[paper]</a>
 <a class="code" href="https://github.com/allenai/STTS">[code]</a>
 
