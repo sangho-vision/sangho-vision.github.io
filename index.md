@@ -61,6 +61,12 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 
 ### Publications
 
+- Unified Spatio-Temporal Token Scoring for Efficient Video VLMs <br/>
+Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark^, Yong Jae Lee^ and **Sangho Lee**^ (^: equal advising) <br/>
+Preprint 2025 <br/>
+<a class="code" href="https://arxiv.org/abs/2603.18004">[paper]</a>
+<a class="code" href="https://github.com/allenai/STTS">[code]</a>
+
 - Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding <br/>
 Christopher Clark<sup class="core">♥</sup>\*, Jieyu Zhang<sup class="core">♥</sup>\*, Zixian Ma<sup class="core">♥</sup>\*, Jae Sung Park<sup class="core">♥</sup>, Mohammadreza Salehi<sup class="core">♥</sup>, Rohun Tripathi<sup class="core">♥</sup>, **Sangho Lee**<sup class="core">♥</sup>, Zhongzheng Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winson Han, Ali Farhadi and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor, \*: equal contribution) <br/>
 Technical Report 2025 <br/>
