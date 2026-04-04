@@ -61,6 +61,15 @@ Prior to joining Ai2, I received my Ph.D. in Computer Science and Engineering fr
 
 ### Publications
 
+- MolmoPoint: Better Pointing for VLMs with Grounding Tokens <br/>
+Christopher Clark<sup class="core">♥</sup>, Yue Yang<sup class="core">♥</sup>, Jae Sung Park<sup class="core">♥</sup>, Zixian Ma, Jieyu Zhang, Rohun Tripathi, Mohammadreza Salehi, **Sangho Lee**, Taira Anderson, Winson Han and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor) <br/>
+Technical Report 2026 <br/>
+<a class="code" href="https://arxiv.org/abs/2603.28069">[paper]</a>
+<a class="code" href="https://allenai.org/blog/molmopoint">[blog post]</a>
+<a class="code" href="https://github.com/allenai/molmo2/blob/main/MOLMO_POINT_README.md">[code]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmopoint">[models]</a>
+<a class="code" href="https://huggingface.co/collections/allenai/molmopoint-data">[data]</a>
+
 - Unified Spatio-Temporal Token Scoring for Efficient Video VLMs <br/>
 Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark^, Yong Jae Lee^ and **Sangho Lee**^ (^: equal advising) <br/>
 Preprint 2026 <br/>
@@ -68,8 +77,8 @@ Preprint 2026 <br/>
 <a class="code" href="https://github.com/allenai/STTS">[code]</a>
 
 - Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding <br/>
-Christopher Clark<sup class="core">♥</sup>\*, Jieyu Zhang<sup class="core">♥</sup>\*, Zixian Ma<sup class="core">♥</sup>\*, Jae Sung Park<sup class="core">♥</sup>, Mohammadreza Salehi<sup class="core">♥</sup>, Rohun Tripathi<sup class="core">♥</sup>, **Sangho Lee**<sup class="core">♥</sup>, Zhongzheng Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winson Han, Ali Farhadi and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor, \*: equal contribution) <br/>
-Technical Report 2025 <br/>
+Christopher Clark<sup class="core">♥</sup>\*, Jieyu Zhang<sup class="core">♥</sup>\*, Zixian Ma<sup class="core">♥</sup>\*, Jae Sung Park<sup class="core">♥</sup>\*, Mohammadreza Salehi<sup class="core">♥</sup>, Rohun Tripathi<sup class="core">♥</sup>, **Sangho Lee**<sup class="core">♥</sup>, Zhongzheng Ren, Chris Dongjoo Kim, Yinuo Yang, Vincent Shao, Yue Yang, Weikai Huang, Ziqi Gao, Taira Anderson, Jianrui Zhang, Jitesh Jain, George Stoica, Winson Han, Ali Farhadi and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor, \*: equal contribution) <br/>
+CVPR 2026 <br/>
 <a class="code" href="https://arxiv.org/abs/2601.10611">[paper]</a>
 <a class="code" href="https://playground.allenai.org/?model=molmo2-8b">[demo]</a>
 <a class="code" href="https://allenai.org/blog/molmo2">[blog post]</a>
@@ -79,7 +88,7 @@ Technical Report 2025 <br/>
 
 - SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning <br/>
 Jitesh Jain, Jialuo Li, Zixian Ma, Jieyu Zhang, Chris Dongjoo Kim, **Sangho Lee**, Rohun Tripathi, Tanmay Gupta, Christopher Clark^ and Humphrey Shi^ (^: equal advising) <br/>
-Preprint 2025 <br/>
+CVPR 2026 <br/>
 <a class="code" href="https://arxiv.org/abs/2512.13874">[paper]</a>
 <a class="code" href="https://praeclarumjj3.github.io/sage">[project page]</a>
 <a class="code" href="https://github.com/allenai/SAGE">[code]</a>
@@ -87,7 +96,7 @@ Preprint 2025 <br/>
 
 - MolmoAct: Action Reasoning Models that can Reason in Space <br/>
 Jason Lee<sup class="core">♥</sup>\*, Jiafei Duan<sup class="core">♥</sup>\*, Haoquan Fang<sup class="core">♥</sup>\*, Yuquan Deng<sup class="core">♥</sup>, Shuo Liu<sup class="core">♥</sup>, Boyang Li<sup class="core">♥</sup>, Bohan Fang<sup class="core">♥</sup>, Jieyu Zhang<sup class="core">♥</sup>, Yi Ru Wang<sup class="core">♥</sup>, **Sangho Lee**, Winson Han, Wilbert Pumacay, Angelica Wu, Rose Hendrix<sup class="core">♥</sup>, Karen Farley, Eli VanderBilt, Ali Farhadi, Dieter Fox<sup class="core">♥</sup> and Ranjay Krishna<sup class="core">♥</sup> (<sup class="core">♥</sup>: core contributor, \*: equal contribution) <br/>
-Technical Report 2025 <br/>
+ICRA 2026 <br/>
 CoRL 2025 Workshop on Making Sense of Data in Robotics (**Best Paper Nominee**) <br/>
 CoRL 2025 Workshop on Resource-Rational Robot Learning (**Best Paper Runner-up**) <br/>
 <a class="code" href="https://arxiv.org/abs/2508.07917">[paper]</a>
